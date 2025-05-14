@@ -1,0 +1,60 @@
+<!-- 
+React is js library created by facebook
+it is a single pag applications
+user application is much better
+it is a library not a framework
+
+
+LIbrary is a programming can be explained as a collection of code and it is import and used project is not depenedent on a library
+
+framework:- not have muvh flexibility project is depenedent on frmaework -->
+
+
+
+<!-- react create a virtual DOM
+windows->document->Html --> 
+
+<!-- 
+Benefits:-
+react first creates exact copy of your dom
+then  only reflect that part which you updated -->
+
+<!-- JSX:- 98% of html
+
+javascript XML
+we  write HTMl tags inside javascript -->
+
+<!-- const elemenet = <h>HELLO</h>
+
+jsx will be translated into normal javascript by Babel -->
+
+<!-- some rules
+
+
+. we can,t return one html element at once but we can wrap the elements inside a parent html tag do value return krna  hai to use ek tga ke andr wrap krna hoga 
+. we can use JSx inside for loops,if else cases
+. html attribute names like "class" becomes "className" -->
+<!-- .in jsx html tags must always be closed -->
+
+
+<!-- REact component 
+a component is an independent ,reusable code block which divieds the UI into smaller pieces -->
+<!-- has two type component :-functional(stateless) and class(stateful) -->
+<!-- funcitonal component:- PROPS MEANS PROPERTIES
+function Welcome(props){
+    return <h1>Hello,{props.name}</h1>;
+} -->
+
+
+
+<!-- react has a dif approach to data flow 
+props is a special keyword in reat being used for passing the data from one component to another 
+unidirectional flow from parent component to child
+
+define its attribute and its value -->
+<!-- then pass it to child component by using props -->
+
+
+
+
+
